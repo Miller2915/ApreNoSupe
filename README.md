@@ -1,20 +1,20 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Introducción 
+El presente repositorio tiene como objeto centralizar la información correspondiente a los datos, el código y los resultados preliminares del proyecto propuesto que implementara técnicas de aprendizaje no supervisado a la base de datos de la Red Nacional de Protección al Consumidor RNPC de la Super Intendencia de Industria y Comercio. 
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# Navegación
+Para navegar y conocer el contenido de este repositorio, siga los pasos que se indican a continuación:
+1.	Carpeta Códigos: Esta carpeta contiene los archivos notebook con los cuales se han implementado algoritmos de aprendizaje no supervisado a la data suministrada por la RNPC.
+2.	Carpeta Datos: En esta carpeta se encuentra la información correspondiente a la data que se esta utilizando para la implementación del ejercicio académico de la universidad y que previamente nos ha suministrado la RNPC.
+3.	Carpeta ResultadosPreliminares: Esta carpeta contine los documentos con los cuales se ha obtenido los resultados preliminares de los ejercicios aplicados a la data suministrado por la RNPC  
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+# Integrantes del Grupo
+-	***Wendy Liney Galvis Larios***
+-	***Luis Felipe González Vallejo***
+-	***José David Contreras Arenas***
+-	***Cesar Crisóstomo Martínez Parra***
+-	***Héctor Miller Patiño Garzón***
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+# Institución
+***Universidad de los Andes – Maestría en Inteligencia Analítica de Datos***
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+
